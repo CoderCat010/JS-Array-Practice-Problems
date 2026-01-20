@@ -12,8 +12,8 @@
 
 
 //-----> Find the length of an array (without .length) and (with .length).
-let arrElm = [1, 2, 3, 4, 5]; 
-let count = 0;
+// let arrElm = [1, 2, 3, 4, 5]; 
+// let count = 0;
 
 // for(let elements = 0; elements < arrElm.length; elements++){
 //     count++;
