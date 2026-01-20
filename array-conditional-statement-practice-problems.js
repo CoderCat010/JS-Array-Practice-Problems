@@ -3,7 +3,7 @@
     * Remove spaces
     * Convert to lowercase
 */
-let userInput = ' ABC@GMAIL.COM ';
-let cleanEmail = userInput.trim().toLowerCase();
+// let userInput = ' ABC@GMAIL.COM ';
+// let cleanEmail = userInput.trim().toLowerCase();
 
-console.log(cleanEmail);
+// console.log(cleanEmail);
