@@ -18,12 +18,12 @@
 
 //-----> Find employee with highest salary.
 /*
-    * input: get 3 array like objects
+    * input: take 3 array like objects.
     * output: Return that employee with highest salary.
  */
-let employees = [
-    {salary: 12000}, {salary: 13000}, {salary: 14000}, {salary: 18000}
-]
+// let employees = [
+//     {salary: 12000}, {salary: 13000}, {salary: 14000}, {salary: 18000}
+// ]
 
 // if(employees[0].salary > employees[1].salary && employees[0].salary > employees[2].salary){
 //     console.log({'the highest paid employee is': employees[0].salary});
@@ -41,6 +41,27 @@ let employees = [
 //     }
 // }
 // console.log({'the highest paid employee is': currentHighestSalary});
+
+
+
+//-----> Increase each employee salary by 10%.
+/*
+    * input: take 5 array like objects.
+    * output: Return updated array.
+*/
+// let employees = [
+//     {salary: 12000}, {salary: 13000}, {salary: 14000}, {salary: 18000}, {salary: 19000}
+// ];
+// let updatedArray = [];
+
+// for(let i = 0; i < employees.length; i++){
+//     updatedArray.push(employees[i].salary + (employees[i].salary * 0.1));
+// };
+// console.log(updatedArray);
+
+
+
+
 
 
 
