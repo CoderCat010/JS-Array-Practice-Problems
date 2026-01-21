@@ -22,7 +22,7 @@
     * output: Return that employee with highest salary.
  */
 let employees = [
-    {salary: 12000}, {salary: 13000}, {salary: 14000}
+    {salary: 12000}, {salary: 13000}, {salary: 14000}, {salary: 18000}
 ]
 
 // if(employees[0].salary > employees[1].salary && employees[0].salary > employees[2].salary){
@@ -32,6 +32,15 @@ let employees = [
 // }else{
 //     console.log({'the highest paid employee is': employees[2].salary});
 // }
+
+// or
+// let currentHighestSalary = employees[0].salary;
+// for(let i = 0; i < employees.length; i++){
+//     if(employees[i].salary > currentHighestSalary){
+//         currentHighestSalary = employees[i].salary;
+//     }
+// }
+// console.log({'the highest paid employee is': currentHighestSalary});
 
 
 
