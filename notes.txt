@@ -1,0 +1,8 @@
+//==================================NOTE: 1
+let employees = [
+    { name: "A", salary: 20000 },
+    { name: "B", salary: 30000 }
+]; // ekhane ekta array er modhe duita object dhukano hoice amra chaile evabew acces korte pari. 
+
+let totalSalary = employees[0].salary + employees[1].salary;
+console.log(totalSalary);
