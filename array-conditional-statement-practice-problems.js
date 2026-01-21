@@ -35,5 +35,8 @@
 //         countOddNum ++;
 //     }
 // }
-// console.log(countEvenNum);
-// console.log(countOddNum);
+// console.log({even: countEvenNum, odd: countOddNum});
+
+
+
+
